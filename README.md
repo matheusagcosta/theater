@@ -1,2 +1,2 @@
-# theater-theme
-A Fancy Jekyll Theme
+# Theater
+A fancy Jekyll theme
